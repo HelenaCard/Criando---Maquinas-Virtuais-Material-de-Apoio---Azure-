@@ -29,6 +29,7 @@ PaaS (Plataforma como Serviço) – ambiente para desenvolvimento de apps sem ge
 
 SaaS (Software como Serviço) – uso de software via navegador (ex: Office 365, Gmail).
 
+
 #### Benefícios:
 
 ✅ Escalabilidade
@@ -130,5 +131,5 @@ Configure alertas de gasto para não ultrapassar seu limite
 
 [Tutorial para aprender fazer uma máquina vitual](https://github.com/HelenaCard/Criando---Maquinas-Virtuais-Material-de-Apoio---Azure-/blob/main/Configurando%20um%20m%C3%A1quina%20virtual%20passo%20a%20passo.pdf)
 
-[Guia Computação em nuvem e Microsoft Azure](
+[Guia Computação em nuvem e Microsoft Azure](https://github.com/HelenaCard/Criando---Maquinas-Virtuais-Material-de-Apoio---Azure-/blob/main/Guia_Computa%C3%A7%C3%A3o_em_Nuvem_e_Azure.pdf.pdf)
 
